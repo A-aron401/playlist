@@ -3,3 +3,4 @@ var songNames=['Guilty Conscience','Potential','All for us','SUGAR','everything 
 songNames.forEach(function(songs) {
     $(".songName").display();
 }
+});
