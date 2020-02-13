@@ -1,8 +1,8 @@
 body {
     background-image: url("https://images.8tracks.com/cover/i/010/319/985/AestheticallyPleasing-3314.jpg?rect=560,0,800,800&q=98&fm=jpg&fit=max");
-    
+   display: flex;
+   flex-flow:row wrap;
 }
 .album {
-    width:200px;
-
+    width: 200px;
 }
